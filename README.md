@@ -1,5 +1,5 @@
 ```console
-goiaalexia@github:~$ ./hello.sh
+saltylex@github:~$ ./hello.sh
 ```
 
 
@@ -24,7 +24,7 @@ goiaalexia@github:~$ ./hello.sh
 <img align="left" src="https://github.com/user-attachments/assets/a6ceb233-86f0-45e0-9765-63a86ae445db" alt="Dori from Genshin Impact Sumeru trailer" width="320" height="290" /> 
 
 ```
-goiaalexia@github
+saltylex@github
 -------------------------
 💻 MEng Cyber Security Student @ BBU
 📚 Main interests: Web & Game Development
@@ -40,7 +40,7 @@ goiaalexia@github
 <br>
 
 ```console
-goiaalexia@github:~$ ./goodbye.sh
+saltylex@github:~$ ./goodbye.sh
 ```
 
 ```
